@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/DLL/bin/Debug/netcoreapp2.0/DLL.deps.json
+/home/ali/codingDojo/c#/DLL/bin/Debug/netcoreapp2.0/DLL.runtimeconfig.json
+/home/ali/codingDojo/c#/DLL/bin/Debug/netcoreapp2.0/DLL.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/DLL/bin/Debug/netcoreapp2.0/DLL.dll
+/home/ali/codingDojo/c#/DLL/bin/Debug/netcoreapp2.0/DLL.pdb
+/home/ali/codingDojo/c#/DLL/obj/Debug/netcoreapp2.0/DLL.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/DLL/obj/Debug/netcoreapp2.0/DLL.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/DLL/obj/Debug/netcoreapp2.0/DLL.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/DLL/obj/Debug/netcoreapp2.0/DLL.AssemblyInfo.cs
+/home/ali/codingDojo/c#/DLL/obj/Debug/netcoreapp2.0/DLL.dll
+/home/ali/codingDojo/c#/DLL/obj/Debug/netcoreapp2.0/DLL.pdb
